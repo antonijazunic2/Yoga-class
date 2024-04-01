@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    font-size: 100%;
+    background :url(assets/css/images/cover.jpg) no-repeat center center/cover;
+}
+main {
+    background-color: blue;
+
+}
+
+footer{
+    background-color: blueviolet;
+}
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
