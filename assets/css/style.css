@@ -7,6 +7,9 @@ header {
     background:url(../css/images/pexels-alexy-almond-3758156.jpg)no-repeat center center/cover;
     color: white;
     font-size:3em;
+    margin: 0;
+    padding: 0;
+}
 .cover-image {
     height: 400px;
     width: 100%; 
@@ -14,12 +17,22 @@ header {
 }
 h1 {
     font-size: 2.5rem;
-
 }
 
-
+main {
+    background: url(../css/images/pexels-min-an-1234035.jpg)no-repeat center center/cover;
+    width: 100%;
+    height: 400px;
+    font-size: 1rem;
+    padding: 0;
+    
+    margin: 0;
+    color: white;
 }
 
+ul{
+ padding-left: 20px   
+}
  #one {
     list-style-type: none;
     display: inline-flex;
