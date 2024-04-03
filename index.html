@@ -9,6 +9,11 @@
     <title>Yoga Studio "M"</title>
     <!-- Stylesheet -->
     <link rel="stylesheet" href="assets/css/style.css">
+    <!--Favicon-->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
 </head>
 
 <body>
@@ -21,9 +26,9 @@
         <nav id="menu" class="navbar">
         </section>
             <ul id="one">
-                <li><a href="index.html"></a>About</li>
-                <li><a href="sign-up.html">Sign Up</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li>About</li>
+                <li>Sign Up</li>
+                <li>Contact</li>
             </ul>
         </nav>
     </div>
@@ -59,10 +64,25 @@
                 <td>08:00-10:00</td>
             </tr>
         </table>
-          
+          </main>
         <!--Sign up section-->
 
-    </main>
+        <form action="sign-up.html" >
+            <div class="signup">
+              <h2>Sign Up</h2>
+              <p>Please fill in this form to create an account.</p>
+              <hr>
+              <label for="name"><b>Name</b></label>
+              <input type="text" placeholder="Your Name" name="name" required>
+              <label for="surname"><b>Surname</b></label>
+              <input type="text" placeholder="Your surname" name="surname" required>
+              <label for="email"><b>Email</b></label>
+              <input type="text" placeholder="Enter Email" name="email" required>
+              <div>
+                <button type="submit" class="sign-up button">Sign Up</button>
+          </div>
+
+    
     <footer>
         <!--Footer-->
         <ul id="social-networks">
