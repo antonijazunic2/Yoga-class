@@ -1,15 +1,37 @@
 header {
     display: flex;
-    font-size: 100%;
-    background :url(assets/css/images/cover.jpg) no-repeat center center/cover;
+    margin-bottom: 50px;
+    font-size: medium;
+    justify-content: space-between;
+    width: 100%;
+    background:url(../css/images/pexels-alexy-almond-3758156.jpg)no-repeat center center/cover;
+    color: white;
+    font-size:3em;
+.cover-image {
+    height: 400px;
+    width: 100%; 
+    left: 10px;
 }
-main {
-    background-color: blue;
+h1 {
+    font-size: 2.5rem;
 
+}
+
+
+}
+
+ #one {
+    list-style-type: none;
+    display: inline-flex;
+    flex-wrap: inherit;
+    font-size: 15px;
+    color:white;
+    letter-spacing: 4px;
+    
 }
 
 footer{
-    background-color: blueviolet;
+    background-color: white;
 }
 #social-networks {
     text-align: center;
@@ -22,4 +44,5 @@ footer{
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: purple;
+}
