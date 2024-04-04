@@ -1,7 +1,7 @@
+
+
 header {
     display: flex;
-    margin-bottom: 50px;
-    font-size: medium;
     justify-content: space-between;
     width: 100%;
     background:url(../css/images/pexels-alexy-almond-3758156.jpg)no-repeat center center/cover;
@@ -9,12 +9,14 @@ header {
     font-size:3em;
     padding: 0;
     margin: 0;
+    align-items: baseline;
 }
 .cover-image {
     height: 400px;
-    width: 100%; 
-    left: 10px;
+    width: 100%;
+    
 }
+
 h1 {
     font-size: 2.5rem;
 }
@@ -26,14 +28,12 @@ table, th, td {
 
 main {
     width: 100%;
-    background-color: #f1f1f1;
-    width: 100%;
+    background-color: white ;
     height: 400px;
     font-size: 1rem;
-    padding: 0;
-    
-    margin: 0;
     color: black;
+    flex: 1 0 auto;
+    margin-bottom: 25px;
 }
 
 ul{
@@ -41,22 +41,30 @@ ul{
 }
  #one {
     list-style-type: none;
-    display: inline-flex;
+    display:inline-flex;
     flex-wrap: inherit;
-    font-size: 15px;
-    color:black;
+    font-size: 20px;
+    color:white;
     letter-spacing: 4px;
     
 }
 
-form { border:1px solid #ccc; }
+body {
+    margin: 10px;
+    position: absolute;
+    width: 100%;
+}
+
+form { 
+    border:1px solid #ccc;
+
+ }
 
 .signup {
   width: 100%;
-  padding: 15px;
-  display: inline-table;
   border: none;
-  background: #f1f1f1;
+  background: white;
+
 }
 
 footer{
@@ -75,3 +83,9 @@ footer{
     padding: 5%;
     color: purple;
 }
+
+@media screen and (min-width: 1024px) {}
+
+@media screen and (min-width: 1440px) {}
+
+@media screen and (min-width: 2560px) {}
