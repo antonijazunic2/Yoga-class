@@ -72,7 +72,7 @@ main {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: plum;
+    background-color: rgb(224, 169, 224);
     font-size: 1rem;
     color: black;
     flex: 1 0 auto;
@@ -108,7 +108,7 @@ form {
 .signup {
     width: 100%;
     border: none;
-    background: plum;
+    background: rgb(224, 169, 224);
 
 }
 
