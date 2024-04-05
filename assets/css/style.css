@@ -36,7 +36,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: end;
-    width: 50%;
+    width: 400%;
 }
 .navbar ul li {
     padding: 1px 5px;
@@ -73,7 +73,6 @@ main {
     justify-content: center;
     flex-direction: column;
     background-color: plum;
-    height: 400px;
     font-size: 1rem;
     color: black;
     flex: 1 0 auto;
@@ -97,8 +96,7 @@ main section {
     color: white;
 }
 
-form {
-    
+form {  
     width: 100%;
     display: flex;
     align-items: center;
@@ -110,7 +108,7 @@ form {
 .signup {
     width: 100%;
     border: none;
-    background: white;
+    background: plum;
 
 }
 
@@ -128,18 +126,24 @@ form {
     color: purple;
 }
 
+footer {
+    background-color: aquamarine;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
 @media screen and (min-width: 768px) {
 
     main {
         width: 100%;
-        height: 10px;
         font-size: 1em;
     }
 
     form {
         font-size: 1.25em;
         text-align: center;
-        height:50px;
         margin-top: 10px;
     }
     #about, #time {
@@ -150,23 +154,5 @@ form {
     header {
         height: 300px;
     }
-    footer {
-        width: 50%;
-    }
-}
-
-@media screen and (min-width: 1440px) {
-.signup {
-    height: 300px;
-}
-header {
-    height: 25rem;
-}
-#one {
-height: 30px;
-}
-footer {
-    width: 60%;
-}
-
+    
 }
