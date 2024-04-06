@@ -38,9 +38,3 @@ On our social media sites users can see images and videos content from our studi
 Many users like to visit social media sites to see what can they expect when they visit any place so it's useful to add them to any website.
 
 ![Social-Media](documentation/screenshots/footer.png)
-
-
-
-
-
-
