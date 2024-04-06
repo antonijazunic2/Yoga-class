@@ -8,11 +8,7 @@ At our studio we offer group classes everyday in the morning and in the afternoo
 Users can find our goals for our studio, time schedule of our classes and can also sign up for group classes.Our social media is also listed at the bottom of the website.
 
 
-<<<<<<< HEAD
 ![preview] (documentation/screenshots/amiresponsive.png)
-=======
-![preview](documentation/screenshots/amiresponsive.png)
->>>>>>> 66c12a51f338c9605df0fed69522972fd31abfca
 
 
 ## Features
