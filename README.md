@@ -1,5 +1,3 @@
 **Yoga Studio "M"**
 
-![Am I responsive preview](documentation/amiresponsive/am i responsive.png) 
-
-
+![gggffggf](documentation/amiresponsive/preformance.jpg) 
