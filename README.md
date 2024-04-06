@@ -38,3 +38,42 @@ On our social media sites users can see images and videos content from our studi
 Many users like to visit social media sites to see what can they expect when they visit any place so it's useful to add them to any website.
 
 ![Social-Media](documentation/screenshots/footer.png)
+
+### Testing
+
+## HTML testing
+No errors were found while testing HTML code using W3C HTML Validator.
+
+![HTML-testing](documentation/screenshots/html.png)
+
+## Css testing 
+No errors were found while testing HTML code using W3C CSS Validator.
+
+![CSS-testing](documentation/screenshots/css.png)
+
+## Accessibility
+
+This test shows that the website is compatible for all screen sizes, that the text is visible and easy to read.
+This was tested using the Lighthouse in devtools.
+
+![accessibility-test](documentation/screenshots/accesebility.png)
+
+### Bugs
+
+1. While testing the code I found that a <h2> was in a <table> element
+That was fixed by moving the <h2> outside of a <table> element
+
+## Launching my page
+The website is saved in Github reposetory named "Yoga-class"
+steps to deploy the website: -inside repoitory select "setting"
+                             -on the right side menu find "pages"
+                             -In the source section choose "Deploy from a branch"
+                             -choose the main branch and save
+
+Live link-![Yoga Studio](https://antonijazunic2.github.io/Yoga-class/)
+
+
+## Credit
+
+For the social media section I used the ![Love Running](https://antonijazunic2.github.io/running-project/) project 
+For images I used ![10,000+ Best Yoga Images](https://www.pexels.com/search/yoga/) site
