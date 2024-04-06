@@ -1,4 +1,4 @@
-**Yoga Studio "M"**
+# Yoga Studio "M"
 
 
 
@@ -8,7 +8,11 @@ At our studio we offer group classes everyday in the morning and in the afternoo
 Users can find our goals for our studio, time schedule of our classes and can also sign up for group classes.Our social media is also listed at the bottom of the website.
 
 
+<<<<<<< HEAD
 ![preview] (documentation/screenshots/amiresponsive.png)
+=======
+![preview](documentation/screenshots/amiresponsive.png)
+>>>>>>> 66c12a51f338c9605df0fed69522972fd31abfca
 
 
 ## Features
@@ -53,24 +57,24 @@ Many users like to visit social media sites to see what they can expect when the
 ![Social-Media](documentation/screenshots/footer.png)
 
 
-### Testing
+## Testing
 
 
-## HTML testing
+### HTML testing
 No errors were found while testing HTML code using W3C HTML Validator.
 
 
 ![HTML-testing](documentation/screenshots/html.png)
 
 
-## Css testing
+### Css testing
 No errors were found while testing HTML code using W3C CSS Validator.
 
 
 ![CSS-testing](documentation/screenshots/css.png)
 
 
-## Accessibility
+### Accessibility
 
 
 This test shows that the website is compatible for all screen sizes, that the text is visible and easy to read.
@@ -83,8 +87,8 @@ This was tested using the Lighthouse in devtools.
 ### Bugs
 
 
-1. While testing the code I found that a <h2> was in a <table> element
-That was fixed by moving the <h2> outside of a <table> element
+1. While testing the code I found that a 'h2' was in a 'table' element
+That was fixed by moving the 'h2' outside of a <table> element
 
 
 ## Launching my page
@@ -101,7 +105,9 @@ Live link-[Yoga Studio](https://antonijazunic2.github.io/Yoga-class/)
 
 
 ## Credit
-
-
+### Code
+For help with writing code I used the [Code Institute common curriculum](https://learn.codeinstitute.net/ci_program/diplomainfullstacksoftwarecommoncurriculum)
+### Social media
 For the social media section I used the [Love Running](https://antonijazunic2.github.io/running-project/) project
+### Images
 For images I used [10,000+ Best Yoga Images](https://www.pexels.com/search/yoga/) site
