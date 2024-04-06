@@ -1,4 +1,4 @@
-**Yoga Studio "M"**
+# Yoga Studio "M"
 
 
 
@@ -53,24 +53,24 @@ Many users like to visit social media sites to see what they can expect when the
 ![Social-Media](documentation/screenshots/footer.png)
 
 
-### Testing
+## Testing
 
 
-## HTML testing
+### HTML testing
 No errors were found while testing HTML code using W3C HTML Validator.
 
 
 ![HTML-testing](documentation/screenshots/html.png)
 
 
-## Css testing
+### Css testing
 No errors were found while testing HTML code using W3C CSS Validator.
 
 
 ![CSS-testing](documentation/screenshots/css.png)
 
 
-## Accessibility
+### Accessibility
 
 
 This test shows that the website is compatible for all screen sizes, that the text is visible and easy to read.
@@ -83,8 +83,8 @@ This was tested using the Lighthouse in devtools.
 ### Bugs
 
 
-1. While testing the code I found that a <h2> was in a <table> element
-That was fixed by moving the <h2> outside of a <table> element
+1. While testing the code I found that a 'h2' was in a 'table' element
+That was fixed by moving the 'h2' outside of a <table> element
 
 
 ## Launching my page
@@ -101,7 +101,7 @@ Live link-[Yoga Studio](https://antonijazunic2.github.io/Yoga-class/)
 
 
 ## Credit
-
-
+### Social media
 For the social media section I used the [Love Running](https://antonijazunic2.github.io/running-project/) project
+### Images
 For images I used [10,000+ Best Yoga Images](https://www.pexels.com/search/yoga/) site
