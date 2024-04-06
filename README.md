@@ -101,7 +101,7 @@ Live link-[Yoga Studio](https://antonijazunic2.github.io/Yoga-class/)
 
 
 ## Credit
-###Code
+### Code
 For help with writing code I used the [Code Institute common curriculum](https://learn.codeinstitute.net/ci_program/diplomainfullstacksoftwarecommoncurriculum)
 ### Social media
 For the social media section I used the [Love Running](https://antonijazunic2.github.io/running-project/) project
